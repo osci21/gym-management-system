@@ -13,6 +13,7 @@ This is a basic Python-based command-line project I built to manage gym membersh
 * **Data Visualization:** Uses Matplotlib to instantly generate two types of bar graphs:
   1. A chart comparing **Member Names vs. Weights**.
   <img width="398" height="340" alt="image" src="https://github.com/user-attachments/assets/f38b5aac-f3b9-4b0e-b519-dba9ef78353c" />
+
   2. A chart analyzing **Member Names vs. Membership Fees**.
   <img width="398" height="340" alt="image" src="https://github.com/user-attachments/assets/4cc9960a-bf3d-4310-864c-726591a0703f" />
 
